@@ -17,8 +17,6 @@
 </div>
 <br>
 
-<br>简体中文 | [English](README_en.md)
-
 # luci-theme-design
 
  luci-theme-design 是一个针对移动端和PC端的沉浸式WebApp体验和优化的OpenWrt LuCI主题
@@ -30,9 +28,6 @@
   - 支持更改主题深色/浅色模式
   - 支持显示/隐藏导航栏
   - 支持更换常用的代理图标
-
-- 感谢 [JetBrains](https://www.jetbrains.com/) 提供的非商业开源软件开发授权！
-<a href="https://www.jetbrains.com/?from=gnet" target="_blank"><img src="https://raw.githubusercontent.com/panjf2000/illustrations/master/jetbrains/jetbrains-variant-4.png" width="250" align="middle"/></a>
 
 ### 主要特点
 
